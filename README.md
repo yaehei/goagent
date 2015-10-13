@@ -8,7 +8,7 @@ goagent 3.2.3 [http://git.io/goa](https://nodeload.github.com/yaehei/goagent/leg
 | --------   | :----  |
 | Simple Guide | https://github.com/yaehei/goagent/blob/wiki/SimpleGuide.md |
 | Graphic Guide | https://github.com/yaehei/goagent/blob/wiki/InstallGuide.md |
-| FAQ | https://github.com/goagent/yaehei/blob/wiki/FAQ.md |
+| FAQ | https://github.com/yaehei/goagent/blob/wiki/FAQ.md |
 | Configurations | https://github.com/yaehei/goagent/blob/wiki/ConfigIntroduce.md.ini |
 | Spam List | https://github.com/yaehei/goagent/blob/wiki/SpamList.md |
 | History | https://github.com/yaehei/goagent/blob/wiki/History.md |
